@@ -9,3 +9,4 @@ nav{display:flex;gap:4px 12px;flex-wrap:wrap}nav a{color:var(--t);text-decoratio
 a{color:var(--b)}details{background:var(--c);border:1px solid var(--br);border-radius:10px;padding:10px 14px;margin:8px 0}summary{cursor:pointer;font-weight:600}
 .tw{overflow-x:auto}table{border-collapse:collapse;width:100%}th,td{border:1px solid var(--br);padding:8px;text-align:left}td input{min-width:70px;width:100%;padding:8px}.res{font-size:22px;font-weight:800;margin:14px 0;color:var(--b)}
 td .x{border:0;background:none;font-size:20px;cursor:pointer;color:#e11d48}footer{border-top:1px solid var(--br);padding:20px 0;font-size:14px;opacity:.85}
+.skip{position:absolute;left:-999px;top:0;background:var(--b);color:#fff;padding:8px 14px;z-index:20;border-radius:0 0 8px 0}.skip:focus{left:0}.bc{font-size:13px;opacity:.85;margin-bottom:8px}.bc a{color:var(--b)}footer a{color:var(--b)}:focus-visible{outline:2px solid var(--b);outline-offset:2px}
