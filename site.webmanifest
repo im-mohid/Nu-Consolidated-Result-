@@ -1,8 +1,8 @@
 {
  "name": "NU Honours Result",
  "short_name": "NU Result",
- "start_url": "/nu-honours-result-bd/",
- "scope": "/nu-honours-result-bd/",
+ "start_url": "/Nu-Consolidated-Result-/",
+ "scope": "/Nu-Consolidated-Result-/",
  "display": "standalone",
  "background_color": "#f6f8ff",
  "theme_color": "#0b5cff",
