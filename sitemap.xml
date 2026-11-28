@@ -1,13 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/</loc><lastmod>2026-11-26</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/honours-1st-year-result.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/honours-2nd-year-result.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/honours-3rd-year-result.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/honours-4th-year-result.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/nu-cgpa-calculator.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/nu-improvement-result.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/about.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/contact.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
-<url><loc>https://im-mohid.github.io/Nu-Consolidated-Result-/privacy.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/honours-1st-year-result.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/honours-2nd-year-result.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/honours-3rd-year-result.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/honours-4th-year-result.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/nu-cgpa-calculator.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/nu-improvement-result.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/contact.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://im-mohid.github.io/nu-result-home/privacy.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
 </urlset>
